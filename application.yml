@@ -1,12 +1,12 @@
 server:
-  port: 1219
+  port: DYNAMICPORT
   address: 0.0.0.0
 spring:
   main:
     banner-mode: log
 lavalink:
   server:
-    password: "inhydrox-lavalink"
+    password: "DYNAMICPASSWORD"
     sources:
       youtube: true
       bandcamp: true
